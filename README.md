@@ -2,7 +2,7 @@
 
 Number and name of feature: Lab 14 | Database Normalization
 
-Estimate of time needed to complete: 4
+Estimate of time needed to complete: 5
 
 Start time: 1300
 
